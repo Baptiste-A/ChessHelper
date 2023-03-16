@@ -1,0 +1,11 @@
+body {
+    min-width: 300px;
+}
+
+.mt-n2 {
+    margin-top: -0.5rem;
+}
+
+.bg-primary {
+    background-color: #7fa650!important;
+}
